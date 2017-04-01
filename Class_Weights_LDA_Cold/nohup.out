@@ -1,0 +1,372 @@
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_5.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_5.py", line 118, in data
+    pickle.dump( pca, open( "best_lda5.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_10.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_10.py", line 118, in data
+    pickle.dump( pca, open( "best_lda10.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_20.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_20.py", line 118, in data
+    pickle.dump( pca, open( "best_lda20.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_50.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_50.py", line 118, in data
+    pickle.dump( pca, open( "best_lda50.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_75.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_75.py", line 118, in data
+    pickle.dump( pca, open( "best_lda75.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_100.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_100.py", line 118, in data
+    pickle.dump( pca, open( "best_lda100.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_150.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_150.py", line 118, in data
+    pickle.dump( pca, open( "best_lda150.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_200.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_200.py", line 118, in data
+    pickle.dump( pca, open( "best_lda200.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_250.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_250.py", line 118, in data
+    pickle.dump( pca, open( "best_lda250.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_300.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_300.py", line 118, in data
+    pickle.dump( pca, open( "best_lda300.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+python3: can't open file 'MLP_Cold_hyper_LDA_350.py': [Errno 2] No such file or directory
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_400.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_400.py", line 118, in data
+    pickle.dump( pca, open( "best_lda400.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+python3: can't open file 'MLP_Cold_hyper_LDA_450.py': [Errno 2] No such file or directory
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_500.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_500.py", line 118, in data
+    pickle.dump( pca, open( "best_lda500.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_600.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_600.py", line 118, in data
+    pickle.dump( pca, open( "best_lda600.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_700.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_700.py", line 118, in data
+    pickle.dump( pca, open( "best_lda700.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_800.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_800.py", line 118, in data
+    pickle.dump( pca, open( "best_lda800.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_900.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_900.py", line 118, in data
+    pickle.dump( pca, open( "best_lda900.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_1000.py", line 165, in <module>
+    train_input, train_output, validation_input, validation_output, test_input, test_output, cweights = data()
+  File "MLP_Cold_hyper_LDA_1000.py", line 118, in data
+    pickle.dump( pca, open( "best_lda1000.pickle", "wb" ) )
+NameError: name 'pca' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_5.py", line 171, in <module>
+    trials=Trials())
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 42, in minimize
+    notebook_name=notebook_name, verbose=verbose)
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 67, in base_minimizer
+    from temp_model import keras_fmin_fnct, get_space
+  File "/home/akos/Class_Weights_LDA_Cold/temp_model.py", line 224, in <module>
+    kbest = LDA(n_components=5).fit(train_data_input, train_output[:,0])
+NameError: name 'LDA' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_10.py", line 171, in <module>
+    trials=Trials())
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 42, in minimize
+    notebook_name=notebook_name, verbose=verbose)
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 67, in base_minimizer
+    from temp_model import keras_fmin_fnct, get_space
+  File "/home/akos/Class_Weights_LDA_Cold/temp_model.py", line 224, in <module>
+    kbest = LDA(n_components=10).fit(train_data_input, train_output[:,0])
+NameError: name 'LDA' is not defined
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+Using TensorFlow backend.
+/usr/local/lib/python3.4/dist-packages/sklearn/utils/validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+/usr/local/lib/python3.4/dist-packages/sklearn/discriminant_analysis.py:387: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 83, in base_minimizer
+    rseed=rseed)
+TypeError: fmin() got an unexpected keyword argument 'rseed'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "MLP_Cold_hyper_LDA_5.py", line 172, in <module>
+    trials=Trials())
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 42, in minimize
+    notebook_name=notebook_name, verbose=verbose)
+  File "/usr/local/lib/python3.4/dist-packages/hyperas/optim.py", line 90, in base_minimizer
+    rstate=np.random.RandomState(rseed))
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/fmin.py", line 307, in fmin
+    return_argmin=return_argmin,
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/base.py", line 635, in fmin
+    return_argmin=return_argmin)
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/fmin.py", line 320, in fmin
+    rval.exhaust()
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/fmin.py", line 199, in exhaust
+    self.run(self.max_evals - n_done, block_until_done=self.async)
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/fmin.py", line 173, in run
+    self.serial_evaluate()
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/fmin.py", line 92, in serial_evaluate
+    result = self.domain.evaluate(spec, ctrl)
+  File "/usr/local/lib/python3.4/dist-packages/hyperopt/base.py", line 840, in evaluate
+    rval = self.fn(pyll_rval)
+  File "/home/akos/Class_Weights_LDA_Cold/temp_model.py", line 266, in keras_fmin_fnct
+  File "/usr/local/lib/python3.4/dist-packages/keras/models.py", line 672, in fit
+    initial_epoch=initial_epoch)
+  File "/usr/local/lib/python3.4/dist-packages/keras/engine/training.py", line 1120, in fit
+    batch_size=batch_size)
+  File "/usr/local/lib/python3.4/dist-packages/keras/engine/training.py", line 1033, in _standardize_user_data
+    exception_prefix='model input')
+  File "/usr/local/lib/python3.4/dist-packages/keras/engine/training.py", line 124, in standardize_input_data
+    str(array.shape))
+ValueError: Error when checking model input: expected dense_input_1 to have shape (None, 5) but got array with shape (9504, 1)
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
