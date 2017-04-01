@@ -1,0 +1,4 @@
+python3 MLP_Cold_hyper_PCA_350.py > best_pca350.txt
+python3 MLP_Cold_hyper_PCA_400.py > best_pca400.txt
+python3 MLP_Cold_hyper_PCA_450.py > best_pca450.txt
+python3 MLP_Cold_hyper_PCA_500.py > best_pca500.txt
