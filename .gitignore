@@ -1,0 +1,7 @@
+**/*.arff
+**/*.pyc
+**/*.txt
+**/*.wav
+**/*.h5
+**/*.pickle
+**/__pycache__
